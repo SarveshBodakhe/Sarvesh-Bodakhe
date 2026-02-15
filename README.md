@@ -1,12 +1,10 @@
-Hi 👋 I'm Sarvesh Sulbha Eknath Bodakhe
+Hi 👋 I'm Sarvesh Eknath Bodakhe
 ===========================
-I am a passionate B.Tech student with a passion for Web Development, coding, and continuous learning. Proficient in C++, Java, and. I am currently expanding my expertise in front-end development by learning React.js. As a hardworking individual, I have a strong interest in DevOps and Machine Learning. With a solid foundation in both development and DevOps, I take pride in delivering high-quality front-end solutions.
+I am a software developer at Honeywell Automation India Limited, with a passion for development, coding, and continuous learning.
 <hr>
 
 * 📫 You can contact me at [sarveshbodakhe77@gmail.com](mailto:sarveshbodakhe77@gmail.com) <br>
-* 🔭 I’m currently working on [Diabetic Retinopathy using Artificial Intelligence] <br>
-* 🌱 I’m currently learning **React Framework** <br>
-* 🤝 I’m looking for help with **improving my frontend development skills, machine learning algorithms, and open to collaborating on projects.** <br>
+* 🌱 I’m currently learning **React.js** and **Java, Java SpringBoot** <br>
 * 👨‍💻 All of my projects are available at [Github](https://github.com/SarveshBodakhe) <br>
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wTLMZyFK5MQncvpSydUqtBinswg2eH0N/view?usp=sharing) <br>
 * ⚡ Fun fact **I think I am funny and have a good sense of humor to make people laugh.** <br>
